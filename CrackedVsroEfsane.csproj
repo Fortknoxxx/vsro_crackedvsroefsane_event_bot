@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\Syinea\Downloads\CrackedMyEventBot\CrackedVsroEfsane.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75CC784F-D0F8-4E9E-AF62-952CC4C9C36B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>My_EventBot_ßy_Mehmet_Yıldız_ML</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v17.1">
+      <HintPath>lib\DevExpress.Data.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v17.1">
+      <HintPath>lib\DevExpress.Utils.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v17.1">
+      <HintPath>lib\DevExpress.XtraBars.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v17.1">
+      <HintPath>lib\DevExpress.XtraEditors.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ns0\Class0.cs" />
+    <Compile Include="ns0\Class1.cs" />
+    <Compile Include="ns0\Class7.cs" />
+    <Compile Include="ns0\Class13.cs" />
+    <Compile Include="ns0\Class14.cs" />
+    <Compile Include="ns0\Class15.cs" />
+    <Compile Include="ns0\Class18.cs" />
+    <Compile Include="ns0\Class78.cs" />
+    <Compile Include="ns0\Class87.cs" />
+    <Compile Include="ns1\Class2.cs" />
+    <Compile Include="ns1\Class3.cs" />
+    <Compile Include="ns1\Class12.cs" />
+    <Compile Include="ns1\Class24.cs" />
+    <Compile Include="ns1\Class76.cs" />
+    <Compile Include="ns1\Class77.cs" />
+    <Compile Include="ns2\Class4.cs" />
+    <Compile Include="ns2\Class31.cs" />
+    <Compile Include="ns2\Class65.cs" />
+    <Compile Include="ns2\Class73.cs" />
+    <Compile Include="ns2\Class79.cs" />
+    <Compile Include="ns2\Attribute8.cs" />
+    <Compile Include="ns3\Class6.cs" />
+    <Compile Include="ns4\Class8.cs" />
+    <Compile Include="ns4\Class19.cs" />
+    <Compile Include="ns4\Form0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ns4\Class69.cs" />
+    <Compile Include="ns5\Class9.cs" />
+    <Compile Include="ns5\Class25.cs" />
+    <Compile Include="ns5\Class71.cs" />
+    <Compile Include="ns5\Attribute5.cs" />
+    <Compile Include="ns6\Class11.cs" />
+    <Compile Include="ns6\Class16.cs" />
+    <Compile Include="ns6\Exception0.cs" />
+    <Compile Include="ns6\Class29.cs" />
+    <Compile Include="ns7\Class17.cs" />
+    <Compile Include="ns7\Attribute0.cs" />
+    <Compile Include="ns7\Class74.cs" />
+    <Compile Include="ns8\Stream0.cs" />
+    <Compile Include="ns8\Class75.cs" />
+    <Compile Include="ns8\Attribute6.cs" />
+    <Compile Include="ns8\Class80.cs" />
+    <Compile Include="ns9\Class32.cs" />
+    <Compile Include="ns9\Attribute4.cs" />
+    <Compile Include="ns9\Attribute7.cs" />
+    <Compile Include="ns10\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ns10\Class72.cs" />
+    <Compile Include="ns10\Attribute1.cs" />
+    <Compile Include="ns10\Attribute2.cs" />
+    <Compile Include="ns10\Attribute3.cs" />
+    <Compile Include="SmartAssembly\HouseOfCards\MemberRefsProxy.cs" />
+    <Compile Include="SmartAssembly\HouseOfCards\Strings.cs" />
+    <Compile Include="SmartAssembly\Delegates\GetString.cs" />
+    <Compile Include="SmartAssembly\MemoryManagement\MemoryManager.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My_EventBot_ßy_Mehmet_Yıldız_ML\exe.licenses" />
+    <EmbeddedResource Include="ns10\Form1.resx" />
+    <EmbeddedResource Include="ns2\Class31.resx" />
+    <EmbeddedResource Include="ns4\Form0.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

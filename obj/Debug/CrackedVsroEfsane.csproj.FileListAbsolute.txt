@@ -1,0 +1,6 @@
+C:\Users\Syinea\Documents\Projekt\CrackedVsroEfsane\CrackedVsroEfsane\obj\Debug\CrackedVsroEfsane.csprojAssemblyReference.cache
+C:\Users\Syinea\Documents\Projekt\CrackedVsroEfsane\CrackedVsroEfsane\obj\Debug\ns10.Form1.resources
+C:\Users\Syinea\Documents\Projekt\CrackedVsroEfsane\CrackedVsroEfsane\obj\Debug\ns2.Class31.resources
+C:\Users\Syinea\Documents\Projekt\CrackedVsroEfsane\CrackedVsroEfsane\obj\Debug\ns4.Form0.resources
+C:\Users\Syinea\Documents\Projekt\CrackedVsroEfsane\CrackedVsroEfsane\obj\Debug\CrackedVsroEfsane.csproj.GenerateResource.cache
+C:\Users\Syinea\Documents\Projekt\CrackedVsroEfsane\CrackedVsroEfsane\obj\Debug\CrackedVsroEfsane.csproj.CoreCompileInputs.cache
